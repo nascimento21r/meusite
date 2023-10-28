@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    font-size: 74px;
+    padding-left: 450px;
+    color: greenyellow;
+    background-color: blueviolet;
+}
+
+header h3 {
+    font-size: 28px;
+    padding-left: 485px;
+    color: greenyellow;
+    background-color: blueviolet;
+}
+
+#tunedcars {
+    padding-bottom: 34px;
+    font-size: 12px;
+}
+
+#n_americam {
+    font-size: 18px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Unbounded', sans-serif;
+    padding-left: 10px;
+    
+}
+
+#n_americam h2 {
+    padding-left: 20px;
+}
+
+#japan {
+    font-family: 'Rubik Mono One', monospace;
+}
+
+#japan {
+    font-size: 18px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Unbounded', sans-serif;
+    padding-left: 10px;
+    
+}
+
+#japan h2 {
+    padding-left: 20px;
+}
+
+#german {
+    font-size: 18px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Unbounded', sans-serif;
+    padding-left: 10px;
+    
+}
+
+#german {
+    padding-left: 20px;
+}
+
+img {
+    width: 400px;
+    height: 266px;
+}
+
+.container #select {
+    padding-left: 27px;
+    font-size: 32px;
+}
