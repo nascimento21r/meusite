@@ -7,20 +7,21 @@
 header h1 {
     font-size: 74px;
     padding-left: 450px;
-    color: greenyellow;
-    background-color: blueviolet;
+    color: darkseagreen;
+    background-color: darkslategray;
 }
 
 header h3 {
     font-size: 28px;
     padding-left: 485px;
     color: greenyellow;
-    background-color: blueviolet;
+    background-color: darkslategray;
 }
 
 #tunedcars {
     padding-bottom: 34px;
     font-size: 12px;
+    background-color: darkseagreen;
 }
 
 #n_americam {
@@ -28,6 +29,7 @@ header h3 {
     font-family: 'Sedgwick Ave Display', cursive;
     font-family: 'Unbounded', sans-serif;
     padding-left: 10px;
+    background-color: darkseagreen;
     
 }
 
@@ -44,6 +46,7 @@ header h3 {
     font-family: 'Sedgwick Ave Display', cursive;
     font-family: 'Unbounded', sans-serif;
     padding-left: 10px;
+    background-color: darkseagreen;
     
 }
 
@@ -56,6 +59,7 @@ header h3 {
     font-family: 'Sedgwick Ave Display', cursive;
     font-family: 'Unbounded', sans-serif;
     padding-left: 10px;
+    background-color: darkseagreen;
     
 }
 
@@ -71,4 +75,5 @@ img {
 .container #select {
     padding-left: 27px;
     font-size: 32px;
+    background-color: lightslategrey;
 }
